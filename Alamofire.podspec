@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.documentation_url = 'https://alamofire.github.io/Alamofire/'
 
   s.platform     = :ios, '10.0'
-  s.swift_version = 5.0
+  s.swift_version = '5.0'
 
   s.source_files = 'Source/*.swift'
   s.resource  = 'Source/*.lproj/*'
